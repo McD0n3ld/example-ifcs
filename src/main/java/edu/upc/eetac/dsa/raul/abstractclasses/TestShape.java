@@ -20,6 +20,8 @@ public class TestShape {
 		TestShape t = new TestShape();
 		Shape[] shapes = {c,r,s};
 		t.printAreas(shapes);
+		
+		System.out.println("hello my name is Rodri and you?");
 	}
 
 }
